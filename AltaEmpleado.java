@@ -406,6 +406,7 @@ public class AltaEmpleado extends javax.swing.JFrame {
         System.out.println("Empleado en el ARREGLO="+lista.size());
         limpiarFormulario();
         jButton6.setEnabled(false);
+        
     }//GEN-LAST:event_jButton6MouseClicked
 
      

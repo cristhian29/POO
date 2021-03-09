@@ -3,7 +3,6 @@ package mx.unam.aragon.fes.persistencia;
 import java.util.ArrayList;
 import mx.unam.aragon.fes.Empleado;
 
-
 public class ArchivoEmpleado {
     private String archivo;
 
